@@ -1,0 +1,242 @@
+<resources>
+    <string name="app_name">Plesir Purworejo</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!-- Navigation Drawer Item -->
+    <string name="navigation_view_item1">Beranda</string>
+    <string name="navigation_view_item2">Wisata</string>
+    <string name="navigation_view_item3">Kuliner</string>
+    <string name="navigation_view_item4">Budaya</string>
+    <string name="navigation_view_item5">Tentang</string>
+
+    <!-- Menu Utama -->
+    <string name="menu1">Profil Purworejo</string>
+    <string name="menu2">Wisata</string>
+    <string name="menu3">Kuliner</string>
+    <string name="menu4">Budaya</string>
+
+    <!-- Profil -->
+    <string name="profil">
+        Kabupaten Purworejo adalah sebuah kabupaten di provinsi Jawa Tengah. Ibu kotanya berada di kota Purworejo.
+        \nKabupaten ini berbatasan dengan Kabupaten Wonosobo dan Kabupaten Magelang di utara, Kabupaten Kulon Progo (Provinsi Daerah Istimewa Yogyakarta) di timur, Samudra Hindia di selatan, serta Kabupaten Kebumen di sebelah barat.
+        \n\nKabupaten Purworejo terdiri atas 16 kecamatan, yang dibagi lagi atas sejumlah 469 desa dan 25 kelurahan. Pusat pemerintahan berada di Kecamatan Purworejo.
+        \n\nDalam bidang pariwisata, purworejo mengandalkan pantainya di sebelah selatan yang bernama "Pantai Ketawang", "Pantai Keburuhan (Pasir Puncu), "Pantai Jatimalang" didukung dengan gua-gua : Gua Selokarang, Sendang Sono, Gua Seplawan, Gua Pencu, dan sebagainya.
+        \nDisamping itu, terdapat juga air terjun "Curug Muncar" dengan ketinggian ± 40m yang terletak di kecamatan Bruno dengan panorama alam yang masih alami, dan masih banyak air terjun yang lain.
+    </string>
+
+    <!-- Wisata -->
+    <string-array name="nama_wisata">
+        <item>Curug Condong</item>
+        <item>Curug Abang</item>
+        <item>Curug Lesung</item>
+        <item>Curug Muncar</item>
+        <item>Curug Purbayan</item>
+        <item>Curug Sikantong</item>
+        <item>Curug Tawing</item>
+        <item>Hutan Pinus</item>
+        <item>Pantai Jatimalang</item>
+        <item>Pantai Ketawang</item>
+        <item>Pantai Puncu</item>
+        <item>Benteng Pendem</item>
+        <item>Geger Menjangan</item>
+        <item>Curug Silangit</item>
+        <item>Masjid Agung Purworejo</item>
+        <item>Gua Seplawan</item>
+        <item>Museum Tosan Aji</item>
+        <item>Alun-Alun Purworejo</item>
+    </string-array>
+
+    <string-array name="deskripsi_wisata">
+        <item>
+            Tempat Wisata Curug Gunung Condong di Bruno Purworejo Jawa Tengah ini Suka dikenal yang dengannya nama Curug Kyai Kate. Pendapat dari narasi nama Curug Kyai Kate yang telah di sebutkan dirinya ambil dari nama sesepuh yang menunggu di wilayah yang telah di sebutkan. Curug yng dikelilingi tebing yang dengannya hutan pinus serta beberapa tumbuhan rimbun lain-lainnya ini merupakan curug yng cukup deras yang dengannya peredaran sungai. Rute trekking menuju lokasi cukup gampang namun pun lumayan jauh.
+            \n\nSelain itu Curug Gunung Condong pun biasa dipakai menjadai spot memancing oleh warga setempat, jadi bagi untuk anda sekalian yang hobi memancing mampu dicoba memancing sambil menikmati derasnya curug Kyai Kate. Sepanjang perjalanan menuju lokasi kamu akan ditemani peredaran sungai serta gemerciknya.
+            \n\nCurug Kyai Kate mempunyai tinggi sekitar 25 meter yang dengannya debit air yang Amat deras malah disaat jarang hujan semisal beberapa hari ini. Tempat ini cocok untuk ciprat-cipratan maupun basah-basahan lantaran sungai yng jernih serta amat segar, akan tetapi jangan terlalu dekat yang dengannya curug lantaran walaupun terdapat kolam yng cukup besar namun debit air yng jatuh Amat besar menjadikan akan terlalu rawan.
+        </item>
+        <item>
+            Tempat Wisata Curug Abang di Wonosuko Purworejo Jawa Tengah mempunyai tebing di sekitar air terjun berwarna merah, dalam bahasa jawa abang warna merah. Wisata Curug Kakak di Wonosuko Purworejo Jawa Tengah mempunyai ketinggian sekitar 20 meter. Karakter khas dari kata ‘Abang’ yang melekat pada nama curug ini mungkin mampu menebar aroma imajinasi publik.
+            \n\nDari Purworejo sampai Kemiri akan dijumpai pemandangan alam yng Amat indah, berupa peredaran sungai yang Amat panjang serta bukit-bukit yng hijau. Jalan yng ditempuh cukup baik, akan tetapi di beberapa lokasi tidak banyak berlubang. Air terjun ini dikelilingi oleh bebatuan yng alami. Bila terlihat dari kejauhan, air terjun ini begitu indah serta menawan yang dengannya perpaduan hutan pinus disekelilingnya. Paduan pepohonan serta batuan alami yng membentuk patahan menjadi pelengkap suguhan panorama keindahan alam.
+            \n\nAda khas yang tampak merah pada dinding tebing yng hampir vertikal itu. Pada bagian jatuhan air sebenarnya tiada terdapat cekungan kubangan air ataupun kedung. Air semisal jatuh pada bidang melengkung serta seterusnya melanjutkan perjalanan. Pada beberapa bagian dinding tebing merah itu tampak semisal merongga ke dalam. Walau tampak relatif kecil , jatuhan air yng kontras bening itu tidak terlalu menyita perhatian. Apalagi yang dengannya suasana asri pegunungan, beberapa jenis hewan seperti burung ataupun kera kerap kali terlihat.
+        </item>
+        <item>
+            Kota purworejo pun terkenal akan keindahan obyek wisatanya, satu dari sekian banyaknya misalnya merupakan Wisata Sungai Kedung Lesung di Purworejo Jawa Tengah ini. Wisata Sungai Kedung Lesung di Purworejo Jawa Tengah adalah obyek wisata yng berada di kota purworejo jawa tengah. Wisata Sungai Kedung Lesung di Purworejo Jawa Tengah ini tidak sedikit di kunjunggi lantaran mempunyai keindahan serta pun panorama alam yng masih alami.
+            \n\nMenjadikan ramai sekali wisatawan yng berkunjung di Wisata Sungai Kedung Lesung di Purworejo Jawa Tengah ini. Di sekitar Wisata Sungai Kedung Lesung di Purworejo Jawa Tengah ini ramai sekali tumbuh pepohonan menjadikan membuat udaranya menjadi sejuk serta segar menjadikan menambah nilai tambah bagi Wisata Sungai Kedung Lesung di Purworejo Jawa Tengah ini, bisa juga dikatakan untuk sekedar melepas lelah maupun bagi atau bisa juga dikatakan untuk mencari udara yng masih segar serta suasanya masih alami di Wisata Sungai Kedung Lesung di Purworejo Jawa Tengah ini dia yng tepat di datangi.
+        </item>
+        <item>
+            Curug Muncar adalah tempat wisata yang perlu kamu kunjungi lantaran pesona keindahannya tak ada duanya. Penduduk lokal daerah Wisata Curug Muncar di Brunorejo Purworejo Jawa Tengah pun amat ramah tamah terhadap wisatawan lokal maupun wisatawan asing. Kota Purworejo pun terkenal akan Wisata Curug Muncar di Brunorejo Purworejo Jawa Tengah yang sangat menarik untuk dikunjungi.
+            \n\nCurug Muncar di Brunorejo Purworejo Jawa Tengah ini merupakan air terjun yang berada di ketinggian 900 m diatas permukaan laut. Suasana disana masih sangat alami, akan tetapi untuk mencapai ke lokasi di perlukan perjuangan yang tidaklah gampang akan tetapi semua itu akan terbayarkan oleh keindahan tempat wisata ini.
+            \n\nSepanjang perjalanan kamu akan selalu disuguhi oleh kesegaran air dan kesegaran udara di sekitar. Kamu pun bisa mandi di curug muncar ini sekalian merasakan dinginnya air di tempat wisata yang telah di sebutkan. Sesudah sampai di pintu masuk curug muncar maka kamu perlu memarkirkan kendaraan di tempat yng sudah di sediakan oleh penduduk sekitar. Lantas perjalanan di lanjutkan yang dengannya berjalan kaki untuk menuju lokasi.
+        </item>
+        <item>
+            Wisata Curug Purbayan di Kemiri Purworejo Jawa Tengah adalah satu dari sekian banyaknya obyek wisata di kota purworejo yang di minati oleh para pecinta alam maupun para pemuda yang mempunyai hobi traveling. Pasalnya untuk mencapai Wisata Curug Purbayan di Kemiri Purworejo Jawa Tengah ini butuh perjuangan yang keras lantaran medan yang di lalui untuk sampai di Wisata Curug Purbayan di Kemiri Purworejo Jawa Tengah ini butuh kesabaran serta ketelatenan.
+            \n\nLantaran letaknya yng masih tersembunyi serta belum banyak yang tahu tentang keberadaan Wisata Curug Purbayan di Kemiri Purworejo Jawa Tengah ini menjadikannya butuh perjuangan yang keras, jalan yng berbatu serta licin perlu dilalui. Akan tetapi rasa lelah akan terbayar sesudah sampai di Wisata Curug Purbayan di Kemiri Purworejo Jawa Tengah ini kesegaran air curug purbayan dan keindahan air terjunnya membuat para wisatawan yang datang akan betah berlama lama di Wisata Curug Purbayan di Kemiri Purworejo Jawa Tengah ini, selain itu di sekitar air terjun ramai sekali pepohonan menjadikan membuat udaranya sejuk serta masih alami.
+        </item>
+        <item>
+            Tempat Wisata Goa Sikantong di Donorejo Purworejo Jawa Tengah merupakan satu dari sekian banyaknya tempat wisata yng berada di Desa Donorejo, Kecamatan Kaligesing, Kabupaten Purworejo, Jawa Tengah, Indonesia. Wisata Goa Sikantong di Donorejo Purworejo Jawa Tengah merupakan tempat wisata yang ramai wisatawan pada hari biasa maupun hari liburan.
+            \n\nTempat ini sangat indah serta mampu memberikan sensasi yng berbeda dengan aktivitas kita sehari hari. Wisata Goa Sikantong di Donorejo Purworejo Jawa Tengah mempunyai pesona keindahan yng sangat menarik untuk dikunjungi. Sangat disayangkan andai kamu berada di kota Purworejo tak mengunjungi Wisata Goa Sikantong di Donorejo Purworejo Jawa Tengah yng memiliki keindahan yng tiada duanya yang telah di sebutkan.
+            \n\nGoa Sikantong diharapkan mampu menjadi pilihan baru bagi masyarakat Purworejo yang ingin berpetualang yang dengannya alam. Akan tetapi sebelum melakukan perjalanan wisata, pengunjung perlu menyiapkan perlengkapan keamanan agar perjalanan wisata bisa berjalan lancar serta aman.
+        </item>
+        <item>
+            Curug Tawing adalah Curug yang berada di Purworejo Jawa Tengah berada di perbukitan yng cukup terjaga kelestariannya di samping mempunyai alam yang masih hijau juga terdapat Hutan Pinus milik Perhutani membuat desa Tlogoguwo memiliki sumber mata Air yng berlimpah. Terdapat atau terletak di sisi barat bukit hutan pinus, tepat di sisi tebing sebelah utara dari goa Anjani terdapat mata air besar bak sungai yang keluar dari bebatuan serta adalah sumber Air terjun yng disebut Curug Tawing di Tlogoguwo yang berasal dari istilah bahasa jawa “Curug” yng berguna air terjun serta “Tawing” adalah istilah yang berguna Tebing ataupun mampu kita sebut air terjun yang berasal dari ataupun berada di tebing.
+            \n\nWisata Curug Tawing di Tlogoguwo Purworejo Jawa Tengah Mempunyai ketinggian 100 meter berundak undak dan air yang cukup jernih membuat air terjun ini cukup menarik. Terdapat mitos andai meminum langsung maupun mandi air di “Curug Tawing” akan memberikan kebugaran atau kesehatan,awet muda serta kesegaran. Hal yang telah di sebutkan tak lain lantaran masih terjaganya kualitas air dan kualitas udara di lingkungan obyek wisata air terjun “Curug Tawing” dan sensasi kesegaran yng mampu kita rasakan di desa Wisata Tlogoguwo.
+        </item>
+        <item>
+            Kota Purworejo pun terkenal akan Wisata Hutan Pinus di Bener Purworejo Jawa Tengah yng Amat menarik bagi atau bisa juga dikatakan untuk dikunjungi. Wisata Hutan Pinus di Bener Purworejo Jawa Tengah mempunyai Keindahan alam Purworejo memanglah Amat potensial, hal ini dibuktikan yang dengannya adanya wisata alam bernuansa hutan yng Amat dikelola yang dengannya baik oleh pemerintah daerah Purworejo.
+            \n\nTempat wisata di Purworejo ini pun adalah perkemahan yng mampu pun dipakai bagi atau bisa juga dikatakan untuk sarana outbond serta kegiatan adventure yang dengannya keindahan hutan pinusnya. Di wisata alam hutan ini pun terdapat kebun binatang mini yng mempunyai koleksi binatang yng terawat serta bersahabat bagi anak-anak. WIsata Alam Hutan Pinus ataupun biasa disebut Kusumo Asri ini terdapat atau terletak di Desa Mayungsari, Kecamatan Bener, Purworejo.
+        </item>
+        <item>
+            Pantai Jatimalang adalah tempat wisata yng Perlu kamu kunjungi lantaran pesona keindahannya tak ada duanya. Penduduk lokal daerah Wisata Pantai Jatimalang di Jatimalang Purworejo Jawa Tengah pun Amat ramah tamah terhadap wisatawan lokal maupun wisatawan asing. Kota Purworejo pun terkenal akan Wisata Pantai Jatimalang di Jatimalang Purworejo Jawa Tengah yng Amat menarik bagi atau bisa juga dikatakan untuk dikunjungi.
+            \n\nDi Pantai Jatimalang Purworejo kamu mampu melakukan banyak sekali kegiatan wisata. Andai tak ingin bermain air pantai ataupun takut yang dengannya ombak yng besar jangan khawatir dulu, tak jauh dari bibir pantai, berjejer kolam renang air tawar. Kolam ini salah satunya unik lantaran terbuat dari terpal -terpal berwarna-warni serta pun berada di pinggir pantai menjadikan sambil berenang mampu melihat pantai.
+            \n\nDi Pantai Jatimalang Purworejo menyimpan kelebihan serta keelokan tersendiri yng berbeda dibandingkan yang dengannya pantai yng lain-lainnya. Pemandangan indah disaat sunset pun menjadi sesuatu yng nggak boleh dilewatkan begitu saja oleh para penelusur. Biaya masuknya pun murah nih, cuma yang dengannya biaya retribusi Rp.3000/orang para penelusur mampu masuk serta bermain sepuasnya di pantai ini.
+        </item>
+        <item>
+            Tempat Wisata Pantai Ketawang di Ketawangrejo Purworejo Jawa Tengah memiliki pasir hitam. Akan tetapi keindahannya ga akan kalah yang dengannya pantai yng berpasir putih. Dari pantai ini wisatawan mampu melihat pegunungan sewu serta menoreh di sebelah timur serta karst gombong di sebelah barat, dan mercusuar yng terdapat atau terletak di tengah rawa-rawa yng telah dimanfaatkan menjdai kolam ikan serta lahan bercocok tanam.
+            \n\nSelain itu, Pantai Ketawang di Ketawangrejo Purworejo Jawa Tengah terdapat pun acara lomba pacuan kuda, serta balap motor (racing) di pantai ini. Ada pun fasilitas disini, semisal tempat parkir, tempat makan, serta tiada retribusi. Andai kamu telah hingga kamu akan melewati gerbang yang dengannya goresan pena selamat datang di pantai Jetis, tinggal mengikuti jalan paving sampai-sampai pantai.
+            \n\nWisata Pantai Ketawang di Ketawangrejo Purworejo Jawa Tengah menyediakan aneka warung menjual kupat tahu, mie ayam, bakso, sate, ataupun rames berjajar sepanjang pantai. Pun aneka minuman semisal dawet, es buah, ataupun teh. Jadi Amat praktis bukan.
+        </item>
+        <item>
+            Tempat Wisata Pantai Pasir Puncu adalah tempat wisata yng Perlu kamu kunjungi lantaran pesona keindahannya tak ada duanya. Penduduk lokal daerah Wisata Pantai Pasir Puncu di Harjobinangun Purworejo Jawa Tengah pun Amat ramah tamah terhadap wisatawan lokal maupun wisatawan asing. Wisata Pantai Pasir Puncu di Harjobinangun Purworejo mempunyai pesona yng hampir percis yang dengannya Pantai Jatimalang. Akan tetapi perjalanan kesana masih Amat sulit, menjadikan kamu bisa menikmati deburan ombak serta semilir angin pantai.
+            \n\nPantai ini pun tidak berbeda yang dengannya Pantai Jatimalang, bagi atau bisa juga dikatakan untuk itu terperinci masih diharapkan kehadiran tangan dingin investor ataupun pebisnis industri pariwisata. Semisal halnya pantai-pantai selatan lain-lainnya, Pantai Pasir Puncu punya ombak yng besar. Suasana di pantai ini Amat tenang lantaran masih salah satunya pantai tradisional yng masih alami. Cocoklah kalau sekedar jadi tempat penghilang stres sambil menikmati pemandangan laut yng indah.
+            \n\nDi Pantai Pasir Puncu tak ada biaya masuk atau juga gratis, paling cuma bayar parkir saja. Jadi buat yng mau main kepantai ini nggak usah khawatir ga punya uang buat masuk.
+        </item>
+        <item>
+            Benteng Pendem di Bagelen Purworejo Jawa Tengah meupakan Bangunan hasil peninggalan zaman penjajahan Jepang, serta mempunyai nilai sejarah. Lokasi masih Amat sepi dan jarang dikunjungi ataupun terjamah oleh warga. Andai dikelola secara baik. Benteng Pendem mampu menjadi aset wisata alam serta wisata sejarah serta mampu menjadi satu dari sekian banyaknya destinasi wisata andalan di Purworejo.
+            \n\nWisata Benteng Pendem di Bagelen Purworejo Jawa Tengah di lakukan penanaman pohon itu menjdai bentuk solidaritas agar Benteng Pendem tampak indah, serta kedepan mampu dikunjungi menjdai destinasi wisata di Desa Bapangsari. Sejarahnya sejak zaman penjajahan Jepang, memanglah telah diusahakan dipakai bagi atau bisa juga dikatakan untuk wisata sejarah serta wisata alam.
+            \n\nNamun hingga era ini masih belum mampu berjalan lantaran keterbatasan SDM serta anggaran. Selain mampu melihat sejarah Benteng Pendem, di lokasi pengunjung pun mampu melihat keindahan laut selatan, pemandangan alam wilayah Kecamatan Purwodadi, Ngombol serta sekitarnya, dari puncak bukit di lokasi Benteng Pendem.
+        </item>
+        <item>
+            Geger Menjangan adalah nama suatu tempat di Purworejo, tempat itu berada di atas bukit. Di puncak bukit yang telah di sebutkan terdapat sebuah bangunan kecil berupa gardu pandang. Nah, dari gardu pandang yang telah di sebutkan bisa dilihat keindahan pemandangan kota Purworejo secara landscape. Itulah deskripsi singkat mengenai Wisata Puncak Bukit Geger Menjangan yng ada di Purworejo.
+            \n\nBukit Geger Menjangan terdapat atau terletak di desa Trirejo, kecamatan Loano, kabupaten Purworejo. Tidak lebih lebih 2 km ke arah timur laut dari alun-alun Purworejo. Letak Geger Menjangan berada di daerah pegunungan yng masih salah satunya ke dalam barisan bukit Menoreh.
+            \n\nTinggi bukit Geger Menjangan tidak lebih lebih 175 m di atas permukaan laut. Bagi atau bisa juga dikatakan untuk mencapainya Perlu melewati jalan setapak yng cukup menanjak. Sesampainya di atas bukit, pengunjung akan melihat sebuah bangunan kecil yng biasa dipakai menjdai gardu pandang. Di situ pengunjung mampu menikmati pemandangan kota Purworejo dari atas.
+        </item>
+        <item>
+            Curug Silangit adalah satu dari sekian banyaknya aset dari kota Purworejo. Tempat wisata di Kabupaten Purworejo Jawa Tengah ini mempunyai ketinggian sampai-sampai lima puluh meter serta terbagi ke dalam tiga tingkatan curug. Curug pertama tingginya tiga puluh meter, sementara curug kedua serta ketiga tingginya masing-masing merupakan sepuluh meter.
+            \n\nKedalaman curug sendiri terkenal Amat dalam, menjadikan pengunjung yng tak mampu ataupun tidak lebih mahir berenang sebaiknya berhati-hati era sedang berada di sini. Akses menuju Curug Silangit sendiri mampu ditempuh mempergunakan kendaraan umum maupun kendaraan pribadi. Lokasinya gampang dijangkau, tepatnya ada di Desa Somongari.
+        </item>
+        <item>
+            Masjid Agung Purworejo di Sindurjan Purworejo mempunyai beduk terbesar di dunia. Keberadaan beduk ini sudah menjadi daya pikat tersendiri bagi wisatawan yng datang ke Purworejo. Sebuah beduk berukuran super besar terbuat dari kayu jati utuh yng dilobangi di bagian tengahnya serta beduk ini sudah berusia percis tua-nya yang dengannya masjid tempatnya berada. Beduk Pandawa bergaris tengah 194cm ataupun hampir dua meter pada sisi depan sedangkan pada sisi belakang bergaris tengah 180 cm. Bila bahan tabung dibuat dari kayu jati sepanjang 292cm, kulit yng dipakainya sendiri mempergunakan kulit banteng.
+Kulit beduk ini bergaris tengah 220cm. kulit beduk pada bagian belakang pernah sempet mengalami kerusakan ditahun 1936 serta lantas diganti pada tanggal 3 Mei 1936 yang dengannya bahan kulit sapi benggala. Kulit bagian belakang ini tercatat telah tiga kali mengalami penggantian lantaran kerusakan yng di alaminya.
+            \n\nMasjid Agung Darul Muttaqin dibangun pada masa pemerintahan bupati Purworejo pertama, Kanjeng Adipati Arya Cokronegoro I pada tahun 1834M.Wisata Masjid Agung Purworejo di Sindurjan Purworejo berdiri di atas tanah seluas 8.825 meter persegi.
+        </item>
+        <item>
+            Goa Seplawan terdapat atau terletak di pegunungan makanya memiiki hawa sejuk. Lokasi goa seplawan berada tidak jauh dari area parkir, pengunjung cukup berjalan beberapa meter saja. Sebelum memasuki goa seplawan, pengunjung akan disuguhi patung besar replika arca emas Dewa Siwa serta Dewi Parwati. Yang dengannya ditemukannya patung yang telah di sebutkan menandakan bahwasanya goa seplawan memiliki nilai sejarah yng tinggi.
+            \n\nBagi atau bisa juga dikatakan untuk Selusur goa seplawan mampu di lakukan oleh siapa saja lantaran Amat aman serta gampang tanpa perlengkapan khusus. Di dalam goa telah tersedia lampu penerangan yng menerangi sepanjang jalur wisata goa seplawan. Berada di mulut goa kamu telah merasakan keajaiban alam berupa stalaktit serta stalakmit yng beraneka ragam nan indah.
+            \n\nBagi atau bisa juga dikatakan untuk melanjutkan selusur goa seplawan, pengunjung Perlu naik tangga kecil serta masuk lorong goa yng mampu dilalui satu orang saja. Sesudah itu Para wisatawan akan terkagum-kagum lantaran sebenarnya goa seplawan mempunyai diameter yng besar serta memanjang sepanjang lebih dari 700 meter. Goa seplawan ini mempunyai jalur buntu, lantaran tak ada tembusan ke titik tertentu. Selain keindahan goa alam sendiri, pemandangan alam di daerah pun Amat indah. Kamu mampu melihat kota Jogja dari gardu pandang goa seplawan.
+        </item>
+        <item>
+            Museum Tosan Aji di Purworejo Jawa Tengah adalah satu dari sekian banyaknya hasil budaya bangsa pada masa perundagian menjdai warisan nenek moyang yng menunjukan satu dari sekian banyaknya identitas budaya bangsa yng hingga kepada kita saat ini. Serta yng dimaksud yang dengannya Tosan Aji merupakan sejenis senjata pusaka dari logam besi yng mendapatkan tempat terhormat (yng dihargai) di mata masyarakat lebih-lebih pada masa lampau, diantaranya berupa keris, tombak, pedang,kudi serta menur.
+            \n\nWisata Museum Tosan Aji di Purworejo Jawa Tengah Museum Tosan Aji diprakarsai pendiriannya oleh Menteri Dalam Negeri Soepardjo Rustam serta diresmikan oleh Gubernur Jawa Tengah Ismail pada 13 April 1987. Di Museum ini tak cuma menyimpan benda-benda koleksi tosan aji semisal keris, pedang, cundrik, tombak serta lain-lain. Akan tetapi pada perkembangannya banyaknya benda cagar budaya lain-lainnya semisal patung, prasasti, yoni, lingga, lumpang, batu pipisan, guci, batu gong, menhir serta lain-lain.
+        </item>
+        <item>
+            Kota purworejo pun terkenal akan keindahan obyek wisatanya , satu dari sekian banyaknya misalnya merupakan Wisata Alun Alun Kota Purworejo Jawa Tengah ini. Wisata Alun Alun Kota Purworejo Jawa Tengah adalah alun-alun kabupaten lama yng cukup luas. Malah, yng terluas di Jawa Tengah. Luas alun-alun Purworejo enam hektar ataupun 60.000 meter persegi yang dengannya bentuk segi empat.
+Baik panjang maupun lebar ukuranya hampir percis. Ciri khas pola tata kota Jawa Kuno selalu yang dengannya jantung kota berupa sebuah alun-alun serta ditengahnya berdiri pohon beringin. Di tengah alun-alun Purworejo terdapat sepasang pohon beringin yng didatangkan dari Kraton Yogyakarta. Pemandangan malam di Alun-alun Purworejo tampak tak semisal umumnya.
+            \n\nAlun-alun dipadati masyarakat yng berkunjung serta terlihat macam-macam kendaraan berjejer memadati tenda makan di sepanjang trotoar alun-alun purworejo.Di alun-alun, masyarakat mampu menikmati kemegahan lampu-lampu temaram kota, wisata masakan, menaiki Bendi, naik becak kendaraan beroda empat serta melihat kemegahan bedug Pendowo dimasjid agung kota Purworejo.
+        </item>
+    </string-array>
+
+    <!-- Kuliner -->
+    <string-array name="nama_kuliner">
+        <item>Dawet Hitam</item>
+        <item>Tahu Kupat</item>
+        <item>Geblek</item>
+        <item>Clorot</item>
+        <item>Rengginang</item>
+        <item>Lanting</item>
+        <item>Kue Satu</item>
+        <item>Kue Lompong</item>
+        <item>Tiwul Punel</item>
+        <item>Krimpying</item>
+        <item>Cenil</item>
+        <item>Awug Awug</item>
+        <item>Lapis</item>
+    </string-array>
+
+    <string-array name="deskripsi_kuliner">
+        <item>
+            Dawet Ireng adalah es cendol yang berasal dari daerah Butuh, Purworejo, Jawa Tengah. Kata ireng dari bahasa Jawa berarti hitam. Butiran dawet berwarna hitam, karena diperoleh dari abu bakar jerami yang dicampur dengan air sehingga menghasilkan air berwarna hitam. Air ini kemudian digunakan sebagai pewarna dawet.
+            \n\nDawet ini memiliki keunikan yaitu penyajian dawet yang jumlah dawetnya jauh lebih banyak dibanding kuahnya (santan ditambah air gula). Hal unik lainya, santan biasa diperas langsung dari bungkusan serabut kelapa.
+        </item>
+        <item>
+            Tahu kupat (beberapa wilayah menyebut "kupat tahu"), sebuah masakan yang berbahan dasar tahu dengan bumbu pedas yang terbuat dari gula jawa cair dan sayuran seperti kol dan kecambah.
+        </item>
+        <item>
+            Geblek adalah makanan tradisional yang dibuat dari bahan tepung tapioka dengan bumbu bawang yang digoreng gurih. Bentuknya bulat berwarna putih bersih dan diolah dengan cara digoreng. Makanan ini populer sebagai jajanan khas dari daerah Kabupaten Kulonprogo, Kabupaten Purworejo, dan Kabupaten Wonosobo. Masing-masing daerah memiliki citarasa unik.[butuh rujukan] Gebleg dapat dinikmati dengan dimakan langsung atau dengan campuran saus kacang.
+        </item>
+        <item>
+            Clorot, celorot, cerorot, atau jelurut adalah kue tradisional berbahan tepung beras dengan santan, dibungkus dengan janur atau kelapa daun kelapa muda dalam bentuk kerucut.[1] Kue ini adalah kudapan tradisional yang biasa ditemukan di Indonesia, Malaysia dan Brunei.
+            \n\nDi Jawa, dikenal sebagai clorot atau celorot, dan sering dikaitkan dengan jajanan pasar tradisional Jawa. Di Bali dan Lombok, kue ini dikenal sebagai cerorot. Di Brunei dan Sabah, kue ini dikenal sebagai jelurut.
+        </item>
+        <item>
+            Rengginang adalah sejenis kerupuk tebal yang terbuat dari nasi atau beras ketan yang dikeringkan dengan cara dijemur di bawah panas matahari lalu digoreng panas dalam minyak goreng dalam jumlah yang banyak. Agak berbeda dari jenis kerupuk lain yang umumnya terbuat dari adonan bahan yang dihaluskan seperti tepung tapioka atau tumbukan biji melinjo, rengginang tidak dihancurkan sehingga bentuk butiran nasi atau ketannya masih tampak. Seringkali rengginang dibuat dari nasi sisa yang tak termakan, lalu dijemur dan dikeringkan untuk kemudian digoreng dan dijadikan rengginang.
+            \n\nDi Jawa Tengah juga dikenal penganan yang sama yang disebut intip goreng, yakni kerak nasi (Jw.: intip) sisa menanak yang melekat pada dandang yang kemudian dikeringkan dan digoreng. Perbedaan antara intip goreng dan rengginang hanyalah pada ukurannya. Intip berukuran lebih besar daripada rengginang karena dicetak dari dasar dandang atau periuk penanak nasi. Dalam pada itu, di beberapa tempat di Jawa Barat dikenal pula penganan berbentuk serupa namun dengan bahan dasar singkong atau gaplek, yang disebut renggining.
+            \n\nRengginang dapat digoreng tanpa diberi bumbu maupun rasa, asin atau manis. Ada jenis rengginang yang diberi rasa dengan udang, terasi, atau kerang lorjuk (kerang bambu).
+        </item>
+        <item>
+            Lanthing (kadang disebut klanthing), merupakan makanan ringan sejenis kerupuk yang terbuat dari singkong berbentuk angka delapan atau lingkaran kecil seperti cincin. Asal mulanya hanya mempunyai rasa yang gurih dan asin tetapi sekarang mulai muncul aneka rasa seperti asin pedas dan rasa keju. Lanthing berkembang di wilayah Jawa Tengah bagian selatan terutama sebagai salah satu makanan khas Kabupaten Kebumen.
+        </item>
+        <item>
+            Makanan ini terbuat dari tepung ketan, berbentuk kotak kecil berwarna krem, dan rasanya manis.
+        </item>
+        <item>
+            Berwarna hitam, dari gandum berisi kacang dan dibugkus dengan daun pisang yang telah mengering berwarna kecoklatan (klaras).
+        </item>
+        <item>
+            Terbuat dari gaplek ubi kayu
+        </item>
+        <item>
+            Makanan ini berbahan dasar singkong, seperti lanting tapi berukuran lebih besar dan lebih keras, berwarna krem, bentuknya bulat tidak seperti lanting yang umumnya berbentuk seperti angka delapan. Rasa makanan ini gurih.
+        </item>
+        <item>
+            Cenil atau cetil adalah makanan yang terbuat dari pati ketela pohon. Makanan ini bisa dibentuk bulat-bulat kecil atau kotak kemudian diberi warna sesuai selera sebelum direbus. Cenil biasanya disajikan dengan parutan kelapa dan ditaburi gula pasir.
+        </item>
+        <item>
+            Awuggawung terbuat dari tepung beras ketan yang berisi gula jawa rasanya manis.
+        </item>
+        <item>
+            Kue ini biasanya terdiri dari dua warna yang berlapis-lapis, ini yang memberi nama kue ini. Kue ini dibuat dari tepung beras, tepung kanji, santan, gula pasir, garam dan pewarna. Kue ini dikukus setiap lapisannya sebelum kemudian lapisan di atasnya ditambahkan. Kue ini banyak ditemui di daerah-daerah di Indonesia.
+            \n\nPewarna yang digunakan untuk kue lapis bisa terdiri dari pewarna makanan buatan atau pewarna alami. Pewarna yang sering digunakan adalah pandan (hijau) dan sirup bunga mawar (merah).
+        </item>
+    </string-array>
+
+    <!-- Budaya -->
+    <string-array name="nama_budaya">
+        <item>Kesenian Cepetan</item>
+        <item>Cing Poo Ling</item>
+        <item>Tari Dolalak</item>
+        <item>Incling Semagung</item>
+        <item>Soyar Maole</item>
+        <item>Jolenan</item>
+        <item>Petik Tirta</item>
+        <item>Cekok Mondhol</item>
+    </string-array>
+
+    <string-array name="deskripsi_budaya">
+        <item>
+            Kesenian Cepetan merupakan jenis kesenian yang terlahir di Desa Kedungkamal, Kecamatan Grabag yang terinspirasi dari seorang pemuda yang bernama Tujan. Pada saat itu Kepala Desa Kedungkamal dalam rangka memperingati HUT Kemerdekaan RI tanggal 17 Agustus 1959 berkeinginan untuk partisipasi dalam pawai budaya tingkat kecamatan. Keinginan tersebut disampaikan kepada seorang pemuda yang bernama Tujan yang notabene sudah berpengalaman menjadi penari kuda kepang. Maka pada saat itu, Tujan menyampaikan ide membentuk group kesenian yang diberi nama
+        </item>
+        <item>
+            Kesenian Cing Poo Ling menggambarkan prajurit yang sedang latihan perang. Tema ini tetap bertahan sampai sekarang. Kesenian Cing Poo Ling merupakan kesenian tradisional sejenis atau reogan mengalami perkembangan sebagai tari perang dan bertemakan tentang kepahlawanan. Biasanya yang diambil dalam kesenian jathilan, reog maupun sejenisnya adalah cerita panji, namun kesenian Cing Poo Ling di Desa Kesawen, Kec. Pituruh memiliki ciri khas yaitu tentang keprajuritan sebagai pengawal.
+        </item>
+        <item>
+            Tari Dolalak merupakan kesenian khas Purworejo yang paling populer. Asal mula kesenian dolalak adalah akulturasi budaya barat (Belanda) dengan timur (Jawa). Asal kata Dolalak adalah dari Not Do dan La (bukan nada C dan G)  karena tarian ini diiringi hanya dengan alat musik dua nada. Tari ndolalak lahir pada zaman penjajahan Belanda. Ketika itu Purworejo dijadikan pusat latihan militer. Konon pada waktu luang para prajurit Belanda berbaur dengan warga untuk menari dalam bentuk baris berpasangan, diiringi nyanyian bersyair pantun sindiran. Seiring perkembangan zaman dan teknologi, tarian Dolalak sekarang sudah diringi dengan musik modern, yaitu keyboard. Lagu-lagu yang dimainkan pun bervariasi dan beragam.
+            \n\nPenari Dolalak hanya dilakukan oleh para wanita, berseragam hitam dengan aksesoris yang gemerlapan juga ada aksesoris yang khas yaitu kacamata hitam. Penari-penari Dolalak bisa mengalami trance, yaitu suatu kondisi mereka tidak sadar karena sudah begitu larut dalam tarian dan musik.
+            \n\nTingkah mereka bisa aneh-aneh dan lucu. Tarian Dolalak saat ini sudah berkembang pesat bahkan sudah menjadi brand image Kabupaten Purworejo.
+        </item>
+        <item>
+            Riwayat singkat Kesenian Incling ini sebenarnya bersumber dari sebuah cerita yang terdapat di Jawa Timur dan khususnya Karesidenan Madiun yang berpusat di Ponorogo.
+        </item>
+        <item>
+            Kesenian kentrung rebana SOYAR MAOLE saat ini sebarannya meliputi beberapa dusun di Desa Kaligono, Kecamatan Kaligesing. Menurut riwayat tidak tertulis dari para pendahulu/leluhur Desa Kaligono, kesenian Kentrung Rebana Soyar Maole sudah ada sejak tahun 1907, yang kemudian secara tradisi diteruskan oleh generasi ke generasi walaupun mengalami pasang surut, masih tetap bertahan sampai sekarang.
+        </item>
+        <item>
+            Jolenan adalah sebuah nama upacara merti desa Keba Palawija yang menggunakan media jolen sebagai wadah atau tempat meletakkannya tumpeng dan ayam panggang. Jolen itu sendiri semacam keranjang dengan alas atau dasar empat persegi dan diberi tutup berbentuk piramida. Ledre dan Binggel diikat dan digantungkan pada ujung sebilah bambu, ditancapkan di sekeliling jolen yang menghiasi. Mengandung maksud merupakan perwujudan /gambaran bahwa daerah pegunungan Somongari kaya akan hasil bumi, baik dari hutannya maupun lain-lainnya.
+        </item>
+        <item>
+            “Pethik Tirta” merupakan upacara selamatan desa (merti desa) yang dijadikan tradisi di Desa Jenar Lor, Kecamatan Purwodadi. Istilah “Pethik Tirta” berasal dari kata“Pethik”  yang berarti mengambil dan “Tirta” yang berarti air. Secara etimologis, Pethik Tirta berarti upacara mengambil air (yang dilakukan di Sumur Talang, suatu sumur beji / tua yang terletak di Dusun Talang Bagus, Desa Jenar Lor, Kecamatan Purwodadi) yang dipercaya membawa berkah. Asal-usul upacara ini berkaitan erat dengan keberadaan Bulak (kawasan pertanian yang sangat luas) yang meliputi wilayah Desa Jenar Lor, Jenar Kidul, Walikoro, Sruwoh, Singkil, Wingko, Pundensari, Jenar Wetan. Saat ini Bulak tersebut dikenal dengan sebutan Bulak Kethip.
+        </item>
+        <item>
+            Kesenian Cekok Mondhol merupakan kesenian tradisional kerakyatan yang bernunansa keagamaan Islam. Kesenian ini tumbuh dan berkembang di Desa Ngasinan, Kecamatan Bener. Kesenian ini berawal dari ide sekelompok pemuda desa dalam  komunitas pengajian untuk membentuk grup kesenian yang bisa dijadikan hiburan sekaligus tuntunan. Gerak, lagu dan syairnya serta musik iringannya hasil adaptasi dari kesenian yang ada di daerah Magelang yaitu Kubro Siswo yang kemudian dimodifikasi dengan hasil kreativitas para pemuda setempat, dipelopori oleh pemuda yang bernama Purwadi sekitar tahun 1970-an.
+        </item>
+    </string-array>
+</resources>
